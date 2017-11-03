@@ -1,0 +1,31 @@
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\bin\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\bin\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.exe
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\bin\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.exe
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.PaginaInicio.resources
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Cliente.resources
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Producto.resources
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Vendedor.resources
+c:\users\pc\documents\visual studio 2015\Projects\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Ventas.resources
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\bin\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.exe.config
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.exe
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.pdb
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\bin\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.exe
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\bin\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.pdb
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.csprojResolveAssemblyReference.cache
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Cliente.resources
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Form1.resources
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.PaginaInicio.resources
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Producto.resources
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Properties.Resources.resources
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Vendedor.resources
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.Ventas.resources
+D:\Uninpahu\Semetre 8\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\bin\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.exe.config
+C:\Users\pc\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.exe
+C:\Users\pc\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Co.Uninpahu.Arquitectura.Actividad\obj\Debug\Edu.Co.Uninpahu.Arquitectura.Actividad.pdb

@@ -1,0 +1,8 @@
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Datos\bin\Debug\Edu.Uninpahu.Arquitectura.Datos.dll.config
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Datos\bin\Debug\Edu.Uninpahu.Arquitectura.Datos.dll
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Datos\bin\Debug\Edu.Uninpahu.Arquitectura.Datos.pdb
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Datos\bin\Debug\Edu.Uninpahu.Arquitectura.Domini.dll
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Datos\bin\Debug\Edu.Uninpahu.Arquitectura.Domini.pdb
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Datos\obj\Debug\Edu.Uninpahu.Arquitectura.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Datos\obj\Debug\Edu.Uninpahu.Arquitectura.Datos.dll
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Datos\obj\Debug\Edu.Uninpahu.Arquitectura.Datos.pdb

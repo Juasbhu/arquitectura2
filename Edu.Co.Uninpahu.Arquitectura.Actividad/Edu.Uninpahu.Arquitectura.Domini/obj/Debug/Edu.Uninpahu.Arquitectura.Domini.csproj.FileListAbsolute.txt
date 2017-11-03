@@ -1,0 +1,5 @@
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Domini\bin\Debug\Edu.Uninpahu.Arquitectura.Domini.dll
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Domini\bin\Debug\Edu.Uninpahu.Arquitectura.Domini.pdb
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Domini\obj\Debug\Edu.Uninpahu.Arquitectura.Domini.dll
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Domini\obj\Debug\Edu.Uninpahu.Arquitectura.Domini.pdb
+C:\Users\Jhon Alex Gutierrez\Desktop\Edu.Co.Uninpahu.Arquitectura.Actividad\Edu.Uninpahu.Arquitectura.Domini\obj\Debug\Edu.Uninpahu.Arquitectura.Domini.csprojResolveAssemblyReference.cache
